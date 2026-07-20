@@ -1,2 +1,66 @@
-# Admin-dashboard-project-internship-Giga-Manager-overview-screenshots-only
-Admin dashboard developed during my internship at Giga Manager — website &amp; user management (screenshots only, source code confidential)
+# Giga Manager – Admin Dashboard
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90D9&center=true&width=600&lines=Admin+Dashboard+🖥️;Website+%26+User+Management" alt="Typing SVG">
+</h1>
+
+This project was developed during my internship at **Giga Manager** (Béni Mellal, Morocco), a company providing web hosting and website development services.
+
+⚠️ **Note:** For confidentiality reasons, the source code of this project is not publicly available. This repository only contains a project overview and screenshots to document the work carried out.
+
+---
+
+## 🎯 Project Overview
+
+During this internship, I developed an **admin dashboard** to manage:
+- The official **Giga Manager** website (gigamanager.com)
+- User registrations for hosting services, web applications, and training programs
+- Content updates on several pages of the company website
+
+I also directly modified and updated some pages of the live company website as part of this project.
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="./screenshots/Image1.jpg" width="150"/></td>
+    <td><img src="./screenshots/Image2.jpg" width="150"/></td>
+    <td><img src="./screenshots/Image3.jpg" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/Image4.jpg" width="150"/></td>
+    <td><img src="./screenshots/Image5.jpg" width="150"/></td>
+    <td></td>
+  </tr>
+</table>
+
+👉 **[View all screenshots](./screenshots)**
+
+---
+
+## 🛠️ Technologies Used
+- HTML / CSS / JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+
+*(adapte cette liste selon ce que tu as réellement utilisé)*
+
+---
+
+## Hinweis
+Dieses Projekt wurde im Rahmen eines Praktikums bei Giga Manager entwickelt. Aus Vertraulichkeitsgründen wird hier ausschließlich eine Projektübersicht mit Screenshots bereitgestellt, ohne Veröffentlichung des Quellcodes.
+
+Der Fokus liegt auf der Demonstration meiner praktischen Erfahrung in der Entwicklung von Admin-Dashboards, Datenbankverwaltung und Webentwicklung im professionellen Kontext.
+
+---
+
+## 👤 Author
+- GitHub : [@Nexus-Vertex](https://github.com/Nexus-Vertex)
+- Email : leilaeltousy@gmail.com
+
+---
+## 📝 License
+This project overview is shared for portfolio purposes only. Source code remains property of Giga Manager.

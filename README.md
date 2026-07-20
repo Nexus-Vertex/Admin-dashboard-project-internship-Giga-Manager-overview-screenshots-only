@@ -10,17 +10,6 @@ This project was developed during my internship at **Giga Manager** (Béni Mella
 
 ---
 
-## 🎯 Project Overview
-
-During this internship, I developed an **admin dashboard** to manage:
-- The official **Giga Manager** website (gigamanager.com)
-- User registrations for hosting services, web applications, and training programs
-- Content updates on several pages of the company website
-
-I also directly modified and updated some pages of the live company website as part of this project.
-
----
-
 ## 📸 Screenshots
 
 <table>
@@ -32,11 +21,29 @@ I also directly modified and updated some pages of the live company website as p
   <tr>
     <td><img src="./screenshots/Image4.jpg" width="150"/></td>
     <td><img src="./screenshots/Image5.jpg" width="150"/></td>
+    <td><img src="./screenshots/Image6.jpg" width="150"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/Image7.jpg" width="150"/></td>
+    <td><img src="./screenshots/Image8.jpg" width="150"/></td>
+    <td><img src="./screenshots/Image9.jpg" width="150"/></td>
     <td></td>
   </tr>
 </table>
 
 👉 **[View all screenshots](./screenshots)**
+
+---
+
+## 🎯 Project Overview
+
+During this internship, I developed an **admin dashboard** to manage:
+- The official **Giga Manager** website (gigamanager.com)
+- User registrations for hosting services, web applications, and training programs
+- Content updates on several pages of the company website
+
+I also directly modified and updated some pages of the live company website as part of this project.
 
 ---
 

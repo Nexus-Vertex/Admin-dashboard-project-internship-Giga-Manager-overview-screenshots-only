@@ -15,18 +15,18 @@ This project was developed during my internship at **Giga Manager** (Béni Mella
 <table width="100%">
   <tr>
     <td width="33%"><img src="./screenshots/Image1.jpg" width="100%"/></td>
-    <td width="33%"><img src="./screenshots/Image2.jpg" width="100%"/></td>
-    <td width="33%"><img src="./screenshots/Image3.jpg" width="100%"/></td>
+    <td width="33%"><img src="./screenshots/Image9.jpg" width="100%"/></td>
+    <td width="33%"><img src="./screenshots/Image8.jpg" width="100%"/></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./screenshots/Image4.jpg" width="100%"/></td>
+    <td width="33%"><img src="./screenshots/Image7.jpg" width="100%"/></td>
     <td width="33%"><img src="./screenshots/Image5.jpg" width="100%"/></td>
     <td width="33%"><img src="./screenshots/Image6.jpg" width="100%"/></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./screenshots/Image7.jpg" width="100%"/></td>
-    <td width="33%"><img src="./screenshots/Image8.jpg" width="100%"/></td>
-    <td width="33%"><img src="./screenshots/Image9.jpg" width="100%"/></td>
+    <td width="33%"><img src="./screenshots/Image4.jpg" width="100%"/></td>
+    <td width="33%"><img src="./screenshots/Image2.jpg" width="100%"/></td>
+    <td width="33%"><img src="./screenshots/Image3.jpg" width="100%"/></td>
   </tr>
 </table>
 
